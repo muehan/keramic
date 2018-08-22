@@ -11,17 +11,21 @@
 }
 
 .title {
+  color: $color-paleTaupe;
+  align-self: flex-end;
   padding: 0;
   margin: 0;
   font-size: 32px;
   word-spacing: 5px;
   width: 100%;
   text-align: center;
-  align-self: flex-end;
 }
 
 .sub-title {
+  color: $color-paleTaupe;
   align-self: flex-start;
+  padding: 0;
+  margin: 0;
   width: 100%;
   font-size: 18px;
   word-spacing: 6px;
